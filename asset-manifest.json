@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59584f32.css",
+    "main.js": "/static/js/main.febde06a.js",
+    "static/media/airdrop.svg": "/static/media/airdrop.b06905d92429763eb64af1bf8864ef5e.svg",
+    "static/media/memomap.png": "/static/media/memomap.6b8de4d44bbe698b3370.png",
+    "static/media/memonomics.png": "/static/media/memonomics.bdf9277817525d8fe99b.png",
+    "static/media/mem_two.png": "/static/media/mem_two.e84548519f1ca20139bc.png",
+    "static/media/noise.png": "/static/media/noise.db144bd3cd29de495eee.png",
+    "static/media/TRMp.png": "/static/media/TRMp.3855cbb68c65c463c54c.png",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
+    "static/media/Montserrat.ttf": "/static/media/Montserrat.24785cc015b27a3e964b.ttf",
+    "static/media/Choko.otf": "/static/media/Choko.ce337ace205a0966fb93.otf",
+    "static/media/buy.svg": "/static/media/buy.14c2bcfd53e6b0420abcd37147962fcb.svg",
+    "static/media/memos_text.png": "/static/media/memos_text.22a632656858af9cae38.png",
+    "static/media/tool.svg": "/static/media/tool.85630bc1663f9685337c2dcb25a7774c.svg",
+    "static/media/copy.svg": "/static/media/copy.5898d3ff5a3406392f6b6e5e874a30dd.svg",
+    "static/media/telegram.svg": "/static/media/telegram.ca18411e76cbc411a08edb35cba5d3c4.svg",
+    "static/media/x.svg": "/static/media/x.1e6278f262a52985247108ecee67d502.svg",
+    "index.html": "/index.html",
+    "main.59584f32.css.map": "/static/css/main.59584f32.css.map",
+    "main.febde06a.js.map": "/static/js/main.febde06a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59584f32.css",
+    "static/js/main.febde06a.js"
+  ]
+}
